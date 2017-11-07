@@ -1,0 +1,9 @@
+Code example P-E-M-C
+--------------------
+
+The given code is also available in a common gzipped tar archive, P-E-M-C.tar.gz,
+which can be unzipped and unpacked with the following commands:
+
+   gunzip P-E-M-C.tar.gz
+
+   tar xvf P-E-M-C.tar
